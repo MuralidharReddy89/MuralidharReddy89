@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muralidhar Reddy</h1>
 <h3 align="center">aspirant to become a Full stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611pd8tudcbr8vup4wkp61dipnndzux2qn0hh9re8ix&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://iconscout.com/lottie-animation/man-is-using-a-laptop-11079507](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611pd8tudcbr8vup4wkp61dipnndzux2qn0hh9re8ix&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://iconscout.com/lottie-animation/man-is-using-a-laptop-11079507](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611vguf0v28kwow2g0s41bfna5h9a4xb73pd0la88xf&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)">
+<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muralidharreddy&label=Profile%20views&color=0e75b6&style=flat" alt="muralidharreddy" /> </p>
-
 
 
 - 🌱 I’m currently learning **Python HTML CSS MySQL**
